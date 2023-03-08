@@ -16,7 +16,7 @@ The following functionality is completed:
 Here's a demo of implemented user stories:
 
 <img src='sp.png' title='SPlash screen' width='' alt='Demo' />
-<img src='main.png' title='Main screen' width='' alt='Demo' />
+<img src='ms.png' title='Main screen' width='' alt='Demo' />
 
 
 
